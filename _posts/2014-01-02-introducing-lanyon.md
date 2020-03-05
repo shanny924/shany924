@@ -5,4 +5,4 @@ category : [ ]
 tag: #
 ---
 
-[안녕하세요 전서연 입니다]
+[Seoyeon Jun](https://www.instagram.com/tableau_viz/?hl=ko)

@@ -10,7 +10,7 @@ tagline:             'DataArtist'
 description:         '안녕하세요 전서연입니다.'
 url:                 'https://shanny924.github.io'
 baseurl:             
-paginate:            
+logo : '/public/images/셔니.png'          
 
 # About/contact
 author:

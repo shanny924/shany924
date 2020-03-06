@@ -16,7 +16,7 @@ logo : '/public/shannycon.png'
 author:
   name:              Mark Otto
   url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
-
+  email:             tjdus92422@gmail.com
+  gravatar :          265f17aa8c362a2ab48d7aecd8707ba6
 # Custom vars
 version:             1.0.0
